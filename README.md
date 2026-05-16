@@ -19,9 +19,7 @@ I'm a 3rd year student studying CS @ UCLA!
 Interested in Software Engineering, ML, and Full-Stack Development :) 
 
 ## Stats 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelaquan04&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angelaquan04&theme=tokyonight)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelaquan04&theme=city_lights)
 
 ## Tech Stack 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -30,9 +28,6 @@ Interested in Software Engineering, ML, and Full-Stack Development :)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-
-## Stats 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelaquan04&theme=city_lights)
 
 
 ## Contact Me! 
