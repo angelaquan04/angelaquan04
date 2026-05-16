@@ -27,4 +27,4 @@ Interested in Software Engineering, ML, and Full-Stack Development :)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ## Stats 
-[![Angela's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelaquan04)](https://github.com/angelaquan04/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelaquan04&layout=compact)
