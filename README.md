@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 I'm a 3rd year student studying CS @ UCLA! 
 Interested in Software Engineering, ML, and Full-Stack Development :) 
 
-## Stats 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelaquan04&theme=city_lights)
-
 ## Tech Stack 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -33,4 +30,9 @@ Interested in Software Engineering, ML, and Full-Stack Development :)
 ## Contact Me! 
 - Linkedin: www.linkedin.com/in/angelaquan04
 - Email: angelaquan04@ucla.edu
+
+
+## Stats 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angelaquan04&theme=city_lights)
+
 
