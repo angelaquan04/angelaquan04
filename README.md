@@ -18,7 +18,12 @@ Here are some ideas to get you started:
 I'm a 3rd year student studying CS @ UCLA! 
 Interested in Software Engineering, ML, and Full-Stack Development :) 
 
-**Portfolio Website:** https://angelaquan04.github.io  
+## 🌊 Portfolio
+
+**Visit my personal website:**  
+➡️ https://angelaquan04.github.io
+
+Explore my projects, experience, and more!
 
 
 ## Tech Stack 
